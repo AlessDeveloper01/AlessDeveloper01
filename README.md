@@ -154,10 +154,6 @@ If things goes well, this section should automatically be replaced by a list of 
 
 <br/>  
 
-  
-
-<br/>  
-
 <div align="center">
             <a href="https://www.buymeacoffee.com/alessdeveloper01" target="_blank" style="display: inline-block;">
                 <img
