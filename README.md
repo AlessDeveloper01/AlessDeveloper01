@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hola 👋, My Name Is Alessandro Rios
+#### I am a student of Mexican nationality, with a great capacity to learn, as from all the knowledge i have
+![I am a student of Mexican nationality, with a great capacity to learn, as from all the knowledge i have](https://github.com/AlessDeveloper01/gift/blob/main/Sin%20t%C3%ADtulo%20%E2%80%91%20Made%20with%20FlexClip.gif)
 
-<!--
-**AlessDeveloper01/AlessDeveloper01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I like to provide help to those who need it, as much as i need your support, delighted that you are on my profile, Thank you
 
-Here are some ideas to get you started:
+Habilidades: VUE JS / REACT / JS / HTML / CSS / JAVA / C / C++ / PYTHON / ANGULAR / ARDUINE / ASSEMBLY / C#
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Estoy trabajando en this page. 
+
+
+
+
