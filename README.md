@@ -1,28 +1,46 @@
+<h2 align="left">Hi 👋! My name is Alessandro Lopez and I'm a Mexico 😶‍🌫️</h2>
+
+###
+
 <div align="center">
-<img src="https://github.com/AlessDeveloper01/gift/blob/main/Sin%20t%C3%ADtulo%20%E2%80%91%20Made%20with%20FlexClip.gif" align="center" style="width: 100%" />
-</div>  
-  
+  <img src="https://github-readme-stats.vercel.app/api?username=AlessDeveloper01&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AlessDeveloper01&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-### <div align="center">I'm Aless Developer, a full-time full-stack freelance developer 👨‍💻 working remotely since 2020 🚀</div>  
-  
+###
 
-- 🔭 I’m currently working on [Github Automatic Programmer](https://github.com/AlessDeveloper01/Automatic-ProgrammerLinks)  
-  
+<img align="right" height="200" src="https://media1.tenor.com/m/YUzRkMOL-3EAAAAC/programming-computer-frog.gif"  />
 
-- 🌱 I’m currently learning MariaDB and Kubernetes  
-  
+###
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+</div>
 
-<br/>  
+###
 
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
+###
 
+<br clear="both">
 
+<img src="https://raw.githubusercontent.com/alessdeveloper01/alessdeveloper01/output/snake.svg" alt="Snake animation" />
 
+###
 ### Frontend  
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" /></a>  
